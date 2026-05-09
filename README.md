@@ -76,7 +76,7 @@ Text-Based Adventure/
 docker compose up --build
 ```
 
-- Frontend: http://localhost:5173
+- Frontend: http://localhost:4000
 - Backend API: http://localhost:8000
 - API docs: http://localhost:8000/docs
 
@@ -108,7 +108,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173.
+Open http://localhost:4000.
 
 ---
 
